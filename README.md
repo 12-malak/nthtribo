@@ -14,6 +14,8 @@ class Solution {
   }
 }
 
+--------END-------
+
 Source: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 Time: O(n), where n is the given number
 Space: O(1), in-place
@@ -35,7 +37,7 @@ class Solution {
     return product - sum;
   }
 }
-
+--------------------END--------------------
 /*
 Source: https://leetcode.com/problems/count-of-matches-in-tournament/
 Time: O(1)
