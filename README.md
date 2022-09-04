@@ -102,3 +102,17 @@ al int[] sequence = {0, 1, 1};
     return sequence[n % 3];
   }
 }
+
+
+
+Source: https://leetcode.com/problems/count-of-matches-in-tournament/
+Time: O(1)
+Space: O(1), in-place
+*/
+
+class Solution {
+public:
+  int numberOfMatches(int n) {
+
+    return n - 1;
+  }
