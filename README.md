@@ -14,7 +14,7 @@ class Solution {
   }
 }
 
---------END-------
+------END-------
 
 Source: https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/
 Time: O(n), where n is the given number
