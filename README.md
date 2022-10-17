@@ -32,7 +32,7 @@ class Solution {
       product *= digit;
       sum += digit;
       n /= 10;
-    }
+    }.
 
     return product - sum;
   }
