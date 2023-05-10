@@ -1,5 +1,5 @@
 # nthtribo...
-~.....hhjjj..
+~.....hhjjj.
 */
 class Solution {
   public int tribonacci(int n) {
